@@ -1,0 +1,12 @@
+git init //initalize repository
+git add . 
+git commit -m 'message of the commit'
+git push 
+
+git branch
+git branch branchName
+git checkout branchName // switch branch
+
+git checkout -b branchName
+
+git pull
